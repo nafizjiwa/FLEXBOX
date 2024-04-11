@@ -60,7 +60,7 @@ Cross axis positions flex items with properties:<br/>
 1.	align-items
 2.	align-content<br/>
 The axis can interchange by using:<br/>
-flex-direction: column;<br/>
+```flex-direction: column;```<br/>
 It accepts 4 values:<br/>
 flex-direction: row/row-reverse/column/column-reverse;<br/>
 flex direction is declared on flex-containers and tells how elements are ordered either horizontally (side by side), or vertically (top to bottom) and in reverse.<br/>
