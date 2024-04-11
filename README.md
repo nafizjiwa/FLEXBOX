@@ -31,4 +31,6 @@ A div with the declaration display: flex; will remain block level — no other e
 
 However, it will change the behavior of its child elements. Child elements will not begin on new lines.
 
+If we didn’t want div elements to be block-level elements, we would use display: inline.<br/> Flexbox, however, provides the inline-flex value for the display property, which creates flex containers that are also inline elements.<br/>
+
 
