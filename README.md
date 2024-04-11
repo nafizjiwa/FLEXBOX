@@ -25,6 +25,10 @@ Flexbox flex container and flex item properties:
   <li>flex-flow</li>
 </ol>
 
-![image](https://github.com/nafizjiwa/FLEXBOX/assets/56348190/da7657ba-4170-464a-aa20-29cb9d0fe680)
+![image](https://github.com/nafizjiwa/FLEXBOX/assets/56348190/da7657ba-4170-464a-aa20-29cb9d0fe680)<br/>
+
+A div with the declaration display: flex; will remain block level — no other elements will appear on the same line as it.<br/>
+
+However, it will change the behavior of its child elements. Child elements will not begin on new lines.
 
 
