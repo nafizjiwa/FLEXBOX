@@ -1,12 +1,17 @@
 # FLEXBOX
 Explain flexbox and its components.
 
-Flexbox a tool that simplifies how to position elements and change postions base on positioning issues. Two important components of flexbox are flex containers and flex itms.
-A flex container is an element on a page that contains flex items. All direct child elements of a flex container are flex items.
-This distinction is important because some of the properties you will learn in this lesson apply to flex containers while others apply to flex items.
-To designate an element as a flex container, set the element’s display property to flex or inline-flex. Once an item is a flex container, 
-there are several properties we can use to specify how its children behave. In this lesson we will cover these properties:
-
+Flexbox a tool that simplifies how to position elements and change postions especially if there are positioning issues. 
+Two components of flexbox are flex containers and flex itms.
+A flex container is an element on a page that contains flex items. 
+All direct child elements of a flex container are flex items.
+There are properties in flexbox some properties apply to flex containers while others apply to flex items.
+To designate an ELEMENT as a flex container, set the element’s display property to flex or inline-flex. 
+```elementName {```
+```        display: flex/ in-line; ```
+```}```
+Flex container properties specify how its children behave. 
+Flexbox properties:
 <ol>
   <li>justify-content</li>
   <li>align-items</li>
