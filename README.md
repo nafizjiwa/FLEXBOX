@@ -25,3 +25,6 @@ Flexbox properties:
   <li>flex-flow</li>
 </ol>
 
+![image](https://github.com/nafizjiwa/FLEXBOX/assets/56348190/da7657ba-4170-464a-aa20-29cb9d0fe680)
+
+
