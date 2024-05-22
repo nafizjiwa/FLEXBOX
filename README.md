@@ -27,6 +27,13 @@ Flexbox flex container and flex item properties:
 
 ![image](https://github.com/nafizjiwa/FLEXBOX/assets/56348190/da7657ba-4170-464a-aa20-29cb9d0fe680)<br/>
 
+The Parent attribute consists of these properties we are concerned with the most:<br>
+![image](https://github.com/nafizjiwa/FLEXBOX/assets/56348190/7fb2e8a1-2ae8-488a-8262-52eeaa9e02b8)<br>
+The ones we concentrate the most are:<br>
+![image](https://github.com/nafizjiwa/FLEXBOX/assets/56348190/acda22db-efd9-4f0c-987f-630086e36212)<br>
+
+
+
 A div with the declaration display: flex; will remain block level — no other elements will appear on the same line as it.<br/>
 
 However, it will change the behavior of its child elements. Child elements will not begin on new lines.
